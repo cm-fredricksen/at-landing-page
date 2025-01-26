@@ -8,12 +8,12 @@
 
 <section class="hero">
 	<div class="hero-showcase text-center bold">
-		<h1 class="purple">UNDERSTAND</h1>
-		<h1 class="purple mb-s">TAROT CARDS</h1>
-		<h4 class="italic semi-bold mb-m" style="color: lavender">
+		<h1 class="text-color">UNDERSTAND</h1>
+		<h1 class="text-color mb-s">TAROT CARDS</h1>
+		<p class="italic semi-bold mb-m text-color">
 			A simple way to learn using the TAROT de MARSEILLE. Beginning in the 1400's the tarot was a
 			popular card game in Europe, and the images represent the times they were made in.
-		</h4>
+		</p>
 		<img class="card-img" title="The Fool &copy;CBD Tarot" src={leMat} alt="" />
 		<img class="card-img" title="The Ace of Cups &copy;CBD Tarot" src={aceCups} alt="" />
 		<img class="card-img" title="The Queen of Batons &copy;CBD Tarot" src={queenBatons} alt="" />
@@ -42,8 +42,8 @@
 	.hero-showcase {
 		width: 50%;
 		padding: 3rem 2rem;
-		background-color: lightseagreen;
-		/* background-color: lightskyblue; */
+		/* background-color: lightseagreen; */
+		background-color: lavender;
 	}
 	.hero-text {
 		background-color: black;
@@ -59,5 +59,8 @@
 	.tam {
 		font-style: oblique;
 		color: lavender;
+	}
+	.text-color {
+		color: black;
 	}
 </style>
