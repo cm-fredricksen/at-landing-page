@@ -8,14 +8,6 @@
 			// @ts-ignore
 			text: `For the agnostic method we will be using a Tarot de Marseille. The deck should be a tarot deck They are usually easiest to get online. You can buy them on Amazon, or at the publisher's websites. This class will be using the CBD tarot in particular.For this course you will need a Tarot de Marseille deck. It should be a classic replica. It needs to be an actual tarot deck. What I mean is 78 cards comprised of 22 major arcana, 40 pip cards and 16 court cards. There are several decks for sale on Amazon or the publishers websites. Below are two recommendations:
 
-[CBD Tarot](https://www.amazon.com/Cbd-Tarot-Marseille-Yoav-Ben-dov/dp/1572819049/ref=sr_1_1?sr=8-1)
-
-[Marseille Tarot](https://www.amazon.com/Marseille-Tarot-Anna-Maria-Morsucci/dp/0738773069/ref=sr_1_8?s=books&sr=1-8)
-
-This is just the quickest and easiest way to get a deck. You can also buy from the publishers, and sometimes I do. At book stores I rarely find a Marseille deck, but you could get lucky. I will be using images from the CBD tarot in this course, mainly because they are free to use with the authors permission from his website.
-
-Get your deck, look it over, and enjoy the artwork. Shuffle it and get the feel for it. Then begin the practice!
-
 `
 		},
 		{
