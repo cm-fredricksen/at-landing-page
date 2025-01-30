@@ -1,5 +1,4 @@
 <script lang="ts">
-	// @ts-ignore
 	const excerpts = [
 		{
 			number: 1,
@@ -17,8 +16,7 @@
 			// @ts-ignore
 			text: `
 When reading the cards there is quite a difference between using the Tarot de Marseille and the Rider Waite Smith deck. The RWS deck has scenic pip cards meaning there are people and scenes portrayed on each card. The TdM does not, each pip is simply the rank / number of suit symbols, for example the three of cups shows three cups. The TdM has decorative flourishes on the pips but no scenes.
-
-Aside from that difference, The RWS is based on Western Hermeticism. The cards all carry significant mystical symbolism which colors the meaning of the cards. This makes some of the cards feel unapproachable to me. In this chapter I am going to compare some cards from the two decks to show how much the RWS is influenced by Hermeticism and pont out the difference in charm.`
+`
 		},
 		{
 			number: 3,
@@ -27,9 +25,6 @@ Aside from that difference, The RWS is based on Western Hermeticism. The cards a
 			// @ts-ignore
 			text: `To become good at reading the cards you need practice, lots of practice. How do you get practice when you don't know how to read? How do you learn how to read without practice? Experience beats all when it comes to good readings. With experience comes confidence, which brings daring and openness. You are given the boldness to move forward in spite of fear.
 
-I am proposing to make a practice of reading the cards. Each day you pick up the deck and shuffle it and do several readings. You handle the cards, a lot. There is more to it, and I will explain in detail in the coming pages, but the goal here is to make the deck a well used tool.
-
-The Tarot de Marseille is ideal for this purpose because it is free of religious and occultic influences, which adds a lot of extra information you don't need for reading the cards. Information overload is a thing, and it slows down learning. It is also discouraging in my opinion.
     `
 		},
 		{
@@ -61,7 +56,7 @@ The Tarot de Marseille is ideal for this purpose because it is free of religious
 	);
 </script>
 
-<section class="chapter-preview default-margin">
+<section class="chapter-preview section">
 	<h2 class="mb-l">What You're Getting</h2>
 	<div class="chapter-container">
 		<ul>
@@ -89,13 +84,6 @@ The Tarot de Marseille is ideal for this purpose because it is free of religious
 </section>
 
 <style>
-	.chapter-preview {
-		padding: 2rem 1rem;
-		/* margin-left: 12vw; */
-		/* margin-right: 20vw; */
-		max-width: 1150px;
-		height: 100vh;
-	}
 	.chapter-container {
 		display: flex;
 		justify-content: space-between;

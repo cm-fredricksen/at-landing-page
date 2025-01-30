@@ -2,7 +2,7 @@
 	import authorPic from '$assets/cbd-tarot-images/a22.jpg';
 </script>
 
-<section class="author-section">
+<section class="author-section section">
 	<h2 class="mb-m mt-s">About the author</h2>
 	<div class="author-container">
 		<div class="author-text">
@@ -26,9 +26,6 @@
 
 <style>
 	.author-section {
-		padding: 3rem 2rem;
-		height: 100vh;
-		max-width: 100%;
 		background-color: lavender;
 	}
 	.author-container {

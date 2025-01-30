@@ -28,7 +28,7 @@
 		{
 			question: 'What do I need for this course?',
 			answer:
-				'For this class you need: a deck(tdm), a notebook & pen, keyword list. The keyword list is included with the class.'
+				'For this class you need: a Tarot de Marseille deck, a notebook and a pen. There is a keyword keyword list included with the class to get you started. I will show you how to make your own lists too!'
 		}
 	];
 
@@ -43,7 +43,7 @@
 	};
 </script>
 
-<section class="faq-section">
+<section class="faq-section section">
 	<h2 class="mb-m mt-l">Frequently Asked Questions</h2>
 	<div class="faq-container">
 		{#each faqs as faq, index}
@@ -65,9 +65,6 @@
 </section>
 
 <style>
-	.faq-section {
-		height: 100vh;
-	}
 	.faq-container {
 		padding: 3rem 2rem;
 	}
@@ -80,5 +77,6 @@
 	}
 	.additional-info a {
 		text-decoration: underline;
+		padding-bottom: 3rem;
 	}
 </style>

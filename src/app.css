@@ -86,6 +86,11 @@ p {
 }
 
 /* UTILITY CLASSES */
+.section {
+	padding: 3rem 2rem;
+	height: 100vh;
+	max-width: 100%;
+}
 .m-xs {
 	margin-top: 8px;
 }

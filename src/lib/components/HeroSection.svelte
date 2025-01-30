@@ -6,7 +6,7 @@
 	import { Button } from '$components';
 </script>
 
-<section class="hero">
+<section class="hero-section">
 	<div class="hero-showcase text-center bold">
 		<h1 class="text-color">UNDERSTAND</h1>
 		<h1 class="text-color mb-s">TAROT CARDS</h1>
@@ -34,7 +34,7 @@
 </section>
 
 <style>
-	section.hero {
+	.hero-section {
 		display: flex;
 		height: 100vh;
 		overflow-y: hidden;

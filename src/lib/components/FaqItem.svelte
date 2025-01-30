@@ -31,6 +31,7 @@
 		flex-grow: 1;
 	}
 	.answer {
+		font-size: 1.1rem;
 		opacity: 0;
 		max-height: 0;
 		overflow: hidden;
