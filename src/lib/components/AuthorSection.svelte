@@ -18,7 +18,7 @@
 				spiritual and psychological connotations often associated with reading tarot. Instead her
 				focus is on engaging the creative mind for real life problem solving(and fun).
 			</p>
-			<p class="mb-xs">She currently lives in Minnesota with her family,</p>
+			<p class="mb-xs">She currently lives in Minnesota with her family.</p>
 		</div>
 		<img src={authorPic} alt="Author Chris Fredricksen" />
 	</div>
@@ -28,7 +28,8 @@
 	.author-section {
 		padding: 3rem 2rem;
 		height: 100vh;
-		max-width: 1150px;
+		max-width: 100%;
+		background-color: lavender;
 	}
 	.author-container {
 		display: flex;
